@@ -1,9 +1,6 @@
-# Under Construction
+# Under Construction - UX Portfolio
 
-## UX Portfolio
-
-Project Wireframe
-
+## Project Wireframe
 <img src="https://cherylhughey.github.io/img/demo.png">
       
 
