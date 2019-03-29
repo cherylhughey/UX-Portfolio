@@ -4,7 +4,7 @@
 
 Project Wireframe
 
-<img src="cherylhughey.github.io/img/demo.png">
+<img src="https://cherylhughey.github.io/img/demo.png">
 
 </center>
       
