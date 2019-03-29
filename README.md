@@ -4,7 +4,7 @@
 ![wireframe](https://cherylhughey.github.io/img/index_page.png)
 
 ### *And, this :arrow_down_small: is the project page*. 
-![wireframe](https://cherylhughey.github.io/img/project_page2.png)
+![wireframe](https://cherylhughey.github.io/img/project_page.png)
 
 
 
