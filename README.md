@@ -1,6 +1,8 @@
 ##  :construction_worker_woman: Under Construction
 
-# Cheryl Hughey's UX Portfolio
+# UX Portfolio Wireframe
+
+This is a design for a button driven portfolio. The opening page is a set of buttons. When pushed, it will open to a second page that features an explanation and screenshot from the project.
 
 
 ### *This :arrow_down_small: is the index page of the project wireframe*. 
