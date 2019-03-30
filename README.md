@@ -1,4 +1,4 @@
-##  :construction_worker_woman: Under Construction
+:construction_worker_woman:
 
 # UX Portfolio Wireframe
 
