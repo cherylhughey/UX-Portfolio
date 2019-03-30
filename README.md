@@ -1,4 +1,4 @@
-# UX Portfolio Wireframe :construction_worker_woman:
+# UX Portfolio Wireframe
 
 This is a design for a button driven portfolio. The opening page is a set of buttons. When pushed, it will open to a second page that features an explanation and screenshot from the project.
 
